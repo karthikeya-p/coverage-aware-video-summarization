@@ -1,0 +1,30 @@
+{
+ "team_id": "K99",
+ "video_id": "Ski_5PoL6Vp8GEw",
+ "duration_sec": 213.0,
+ "label": {
+  "name": "ski",
+  "score": 0.6415
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    22.8,
+    30.7
+   ]
+  },
+  {
+   "segment": [
+    145.7,
+    157.7
+   ]
+  },
+  {
+   "segment": [
+    187.8,
+    199.8
+   ]
+  }
+ ]
+}

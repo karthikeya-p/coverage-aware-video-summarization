@@ -1,0 +1,36 @@
+{
+ "team_id": "K99",
+ "video_id": "Longboarding_Jec5YAjth6M",
+ "duration_sec": 247.87,
+ "label": {
+  "name": "longboarding",
+  "score": 0.9034
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    33.8,
+    45.8
+   ]
+  },
+  {
+   "segment": [
+    149.4,
+    161.4
+   ]
+  },
+  {
+   "segment": [
+    171.5,
+    176.7
+   ]
+  },
+  {
+   "segment": [
+    242.1,
+    247.87
+   ]
+  }
+ ]
+}

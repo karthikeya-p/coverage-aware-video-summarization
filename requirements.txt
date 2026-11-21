@@ -1,0 +1,28 @@
+# Install PyTorch FIRST, matching your NVIDIA driver, then this file. Tested configuration:
+#   Python 3.10, torch 2.7.1+cu126, torchvision 0.22.1, numpy 1.26.4, Ubuntu 24.04 (WSL2), RTX 3050 4 GB
+#   pip install torch==2.7.1 torchvision==0.22.1 --index-url https://download.pytorch.org/whl/cu126
+# setup.sh pins the torch you already have while installing this file. If torch is ever replaced, with a newer build, reinstall the line above and rebuild the NMS extension
+# reinstall it and rebuild the NMS extension (code/third_party/actionformer_release/libs/utils:
+# python setup.py install --user). numpy must stay < 2. Exact tested versions: requirements-lock.txt
+numpy<2
+pyyaml
+pandas
+h5py
+joblib
+tensorboard
+fvcore
+simplejson
+psutil
+opencv-python-headless
+open_clip_torch
+pillow
+scipy
+tqdm
+gdown
+# AdaTAD (OpenTAD) model code; setup.sh also installs mmengine and mmcv-lite==2.1.0 with --no-deps
+addict
+yapf
+termcolor
+rich
+einops
+# system: ffmpeg + ffprobe on PATH (apt install ffmpeg)

@@ -1,0 +1,18 @@
+{
+ "team_id": "K99",
+ "video_id": "Plane_UM3DZadX_o4",
+ "duration_sec": 96.32,
+ "label": {
+  "name": "plane",
+  "score": 0.847
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    69.2,
+    81.2
+   ]
+  }
+ ]
+}

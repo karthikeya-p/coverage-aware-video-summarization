@@ -1,0 +1,18 @@
+{
+ "team_id": "K99",
+ "video_id": "Jumping_kTzwvyzzfjk",
+ "duration_sec": 83.73,
+ "label": {
+  "name": "jumping",
+  "score": 0.7439
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    50.5,
+    62.5
+   ]
+  }
+ ]
+}

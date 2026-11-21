@@ -1,0 +1,36 @@
+{
+ "team_id": "K99",
+ "video_id": "Bike_lhTFVa0h9Rk",
+ "duration_sec": 287.51,
+ "label": {
+  "name": "bike",
+  "score": 0.6044
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    55.9,
+    65.5
+   ]
+  },
+  {
+   "segment": [
+    78.8,
+    87.6
+   ]
+  },
+  {
+   "segment": [
+    200.9,
+    212.5
+   ]
+  },
+  {
+   "segment": [
+    221.5,
+    233.5
+   ]
+  }
+ ]
+}

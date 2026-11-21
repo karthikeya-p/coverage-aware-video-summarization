@@ -1,0 +1,24 @@
+{
+ "team_id": "K99",
+ "video_id": "Plane_Yz4CYVdRvvU",
+ "duration_sec": 111.41,
+ "label": {
+  "name": "plane",
+  "score": 0.7567
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    20.7,
+    25.4
+   ]
+  },
+  {
+   "segment": [
+    50.3,
+    62.3
+   ]
+  }
+ ]
+}

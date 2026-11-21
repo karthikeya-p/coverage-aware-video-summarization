@@ -1,0 +1,36 @@
+{
+ "team_id": "K99",
+ "video_id": "Horse_PEekyTcA8FU",
+ "duration_sec": 229.13,
+ "label": {
+  "name": "horse",
+  "score": 0.8143
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    118.9,
+    129.5
+   ]
+  },
+  {
+   "segment": [
+    150.9,
+    155.8
+   ]
+  },
+  {
+   "segment": [
+    185.4,
+    192.2
+   ]
+  },
+  {
+   "segment": [
+    194.8,
+    206.8
+   ]
+  }
+ ]
+}

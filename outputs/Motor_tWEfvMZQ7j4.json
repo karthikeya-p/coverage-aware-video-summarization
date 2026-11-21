@@ -1,0 +1,30 @@
+{
+ "team_id": "K99",
+ "video_id": "Motor_tWEfvMZQ7j4",
+ "duration_sec": 202.64,
+ "label": {
+  "name": "motor",
+  "score": 0.7686
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    7.2,
+    17.9
+   ]
+  },
+  {
+   "segment": [
+    19.3,
+    31.1
+   ]
+  },
+  {
+   "segment": [
+    36.5,
+    44.3
+   ]
+  }
+ ]
+}

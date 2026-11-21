@@ -1,0 +1,30 @@
+{
+ "team_id": "K99",
+ "video_id": "BikePolo_DHbYfmjX3WQ_1",
+ "duration_sec": 171.76,
+ "label": {
+  "name": "bikepolo",
+  "score": 0.5631
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    6.0,
+    13.9
+   ]
+  },
+  {
+   "segment": [
+    41.1,
+    45.3
+   ]
+  },
+  {
+   "segment": [
+    131.7,
+    143.7
+   ]
+  }
+ ]
+}

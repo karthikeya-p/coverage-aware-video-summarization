@@ -1,0 +1,24 @@
+{
+ "team_id": "K99",
+ "video_id": "Boxing_mDOxBVYvDCU",
+ "duration_sec": 135.0,
+ "label": {
+  "name": "boxing",
+  "score": 0.78
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    62.6,
+    69.5
+   ]
+  },
+  {
+   "segment": [
+    96.7,
+    108.7
+   ]
+  }
+ ]
+}

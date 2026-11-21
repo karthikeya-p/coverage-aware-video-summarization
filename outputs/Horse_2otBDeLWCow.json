@@ -1,0 +1,30 @@
+{
+ "team_id": "K99",
+ "video_id": "Horse_2otBDeLWCow",
+ "duration_sec": 248.24,
+ "label": {
+  "name": "horse",
+  "score": 0.883
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    168.4,
+    178.3
+   ]
+  },
+  {
+   "segment": [
+    194.4,
+    206.4
+   ]
+  },
+  {
+   "segment": [
+    225.2,
+    236.8
+   ]
+  }
+ ]
+}

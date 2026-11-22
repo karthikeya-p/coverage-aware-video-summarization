@@ -1,0 +1,36 @@
+{
+ "team_id": "K99",
+ "video_id": "RockClimbing_EaKtFLoXTCI",
+ "duration_sec": 374.0,
+ "label": {
+  "name": "rockclimbing",
+  "score": 0.4849
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    83.9,
+    94.5
+   ]
+  },
+  {
+   "segment": [
+    185.5,
+    195.0
+   ]
+  },
+  {
+   "segment": [
+    239.7,
+    263.7
+   ]
+  },
+  {
+   "segment": [
+    295.5,
+    307.5
+   ]
+  }
+ ]
+}

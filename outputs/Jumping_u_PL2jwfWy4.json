@@ -1,0 +1,24 @@
+{
+ "team_id": "K99",
+ "video_id": "Jumping_u_PL2jwfWy4",
+ "duration_sec": 117.14,
+ "label": {
+  "name": "ski",
+  "score": 0.6212
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    30.7,
+    42.7
+   ]
+  },
+  {
+   "segment": [
+    53.4,
+    58.9
+   ]
+  }
+ ]
+}

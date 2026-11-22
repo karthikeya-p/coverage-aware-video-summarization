@@ -1,0 +1,24 @@
+{
+ "team_id": "K99",
+ "video_id": "Jumping__mU-p2wuk90",
+ "duration_sec": 131.75,
+ "label": {
+  "name": "jumping",
+  "score": 0.8917
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    83.6,
+    95.6
+   ]
+  },
+  {
+   "segment": [
+    110.7,
+    118.4
+   ]
+  }
+ ]
+}

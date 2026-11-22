@@ -1,0 +1,30 @@
+{
+ "team_id": "K99",
+ "video_id": "Jumping_IPRT9MZh3_s",
+ "duration_sec": 175.8,
+ "label": {
+  "name": "jumping",
+  "score": 0.8739
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    111.7,
+    123.7
+   ]
+  },
+  {
+   "segment": [
+    130.9,
+    138.0
+   ]
+  },
+  {
+   "segment": [
+    168.6,
+    175.8
+   ]
+  }
+ ]
+}

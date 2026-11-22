@@ -1,0 +1,18 @@
+{
+ "team_id": "K99",
+ "video_id": "RockClimbing_oVnAVcbMoSM",
+ "duration_sec": 83.57,
+ "label": {
+  "name": "rockclimbing",
+  "score": 0.8855
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    17.9,
+    29.9
+   ]
+  }
+ ]
+}

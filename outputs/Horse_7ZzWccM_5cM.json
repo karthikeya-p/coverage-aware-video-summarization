@@ -1,0 +1,18 @@
+{
+ "team_id": "K99",
+ "video_id": "Horse_7ZzWccM_5cM",
+ "duration_sec": 146.24,
+ "label": {
+  "name": "horse",
+  "score": 0.9119
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    90.4,
+    112.3
+   ]
+  }
+ ]
+}

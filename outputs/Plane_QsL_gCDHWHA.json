@@ -1,0 +1,30 @@
+{
+ "team_id": "K99",
+ "video_id": "Plane_QsL_gCDHWHA",
+ "duration_sec": 205.52,
+ "label": {
+  "name": "horse",
+  "score": 0.3903
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    25.8,
+    37.8
+   ]
+  },
+  {
+   "segment": [
+    53.6,
+    65.6
+   ]
+  },
+  {
+   "segment": [
+    141.4,
+    148.2
+   ]
+  }
+ ]
+}

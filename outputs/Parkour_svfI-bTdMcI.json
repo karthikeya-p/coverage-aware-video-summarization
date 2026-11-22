@@ -1,0 +1,30 @@
+{
+ "team_id": "K99",
+ "video_id": "Parkour_svfI-bTdMcI",
+ "duration_sec": 202.62,
+ "label": {
+  "name": "parkour",
+  "score": 0.589
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    63.2,
+    75.2
+   ]
+  },
+  {
+   "segment": [
+    103.0,
+    109.3
+   ]
+  },
+  {
+   "segment": [
+    123.3,
+    135.3
+   ]
+  }
+ ]
+}

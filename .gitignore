@@ -1,0 +1,11 @@
+weights/*.pth
+weights/*.pth.tar
+weights/*.pyth
+weights/*.safetensors
+weights/*.part
+__pycache__/
+*.pyc
+*.so
+build/
+*.egg-info/
+/data/

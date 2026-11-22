@@ -1,0 +1,42 @@
+{
+ "team_id": "K99",
+ "video_id": "RockClimbing_mDUcIkDzpVI",
+ "duration_sec": 377.07,
+ "label": {
+  "name": "rockclimbing",
+  "score": 0.9569
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    12.4,
+    24.4
+   ]
+  },
+  {
+   "segment": [
+    38.4,
+    46.2
+   ]
+  },
+  {
+   "segment": [
+    151.3,
+    162.5
+   ]
+  },
+  {
+   "segment": [
+    189.4,
+    201.4
+   ]
+  },
+  {
+   "segment": [
+    346.0,
+    358.0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "team_id": "K99",
+ "video_id": "Skate_3h8GZNyLpoU",
+ "duration_sec": 136.44,
+ "label": {
+  "name": "skate",
+  "score": 0.5062
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    82.5,
+    94.4
+   ]
+  },
+  {
+   "segment": [
+    128.0,
+    136.44
+   ]
+  }
+ ]
+}

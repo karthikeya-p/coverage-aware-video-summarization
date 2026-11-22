@@ -1,0 +1,30 @@
+{
+ "team_id": "K99",
+ "video_id": "Surfing_G7lPf1gF-W4",
+ "duration_sec": 204.13,
+ "label": {
+  "name": "surfing",
+  "score": 0.9186
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    2.9,
+    10.9
+   ]
+  },
+  {
+   "segment": [
+    124.4,
+    135.0
+   ]
+  },
+  {
+   "segment": [
+    135.8,
+    147.8
+   ]
+  }
+ ]
+}
